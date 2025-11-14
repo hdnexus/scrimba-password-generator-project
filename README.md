@@ -17,9 +17,9 @@ The project focuses on practicing **JavaScript logic**, **DOM manipulation**, an
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="images/tela11.png" width="300" height="200" alt="Idle Screen" />
-  <img src="images/tela22.png" width="300" height="200" alt="Choosing Password Length" />
-  <img src="images/tela33.png" width="300" height="200" alt="Password Generated" />
+  <img src="images/tela11.png" width="300" height="300" alt="Idle Screen" />
+  <img src="images/tela22.png" width="300" height="300" alt="Choosing Password Length" />
+  <img src="images/tela33.png" width="300" height="300" alt="Password Generated" />
 </p>
 
 ---
